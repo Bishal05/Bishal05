@@ -32,5 +32,6 @@ Hello, my name is Bishal Kumar Singh and I am a final year student at Shri Govin
 
 
 
-![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=Bishal05&show_icons=true)
+![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=Bishal05) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal05)](https://github.com/anuraghazra/github-readme-stats)
+
 
