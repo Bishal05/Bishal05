@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Bishal Kumar Singh
 
 <!--
 **Bishal05/Bishal05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, my name is Bishal Kumar Singh and I am a final year student at Shri Govindram Seksaria Institute of Technology and Science majoring in Information Technology. I am a full-stack developer and a competitive programmer. My technology stack involves Java, JavaScript, React.js, Node.js, Express.js, MySQl, MongoDb and HTML/CSS/Bootstrap. Besides programming, I have an interest in travelling and bikes.My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishal05)](https://github.com/anuraghazra/github-readme-stats)
+
